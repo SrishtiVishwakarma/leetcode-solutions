@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0704-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
