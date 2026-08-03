@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
