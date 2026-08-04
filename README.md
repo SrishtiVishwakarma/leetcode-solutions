@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0643-maximum-average-subarray-i](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
