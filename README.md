@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SrishtiVishwakarma/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
